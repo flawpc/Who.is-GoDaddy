@@ -1,0 +1,2 @@
+javascript:(function()%7Bwindow.open("https%3A%2F%2Fwww.godaddy.com%2Fwhois%2Fresults.aspx%3Fisc%3Dcjcwebsite%26checkAvail%3D1%26tmskey%3D%26domain%3D" %2B document.domain)%7D)()
+
